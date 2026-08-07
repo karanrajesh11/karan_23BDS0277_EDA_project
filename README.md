@@ -1,1 +1,3 @@
-# karan_23BDS0277_EDA_project
+# EDA Course Project – Phase 1 | Karan Rajesh (23BDS0277)
+
+This repository contains the Phase 1 submission for the Exploratory Data Analysis (EDA) course project. The project uses the allocated **US Seat Belts** dataset to perform data loading, statistical analysis, missing value handling, data cleaning, data transformation, and exploratory data analysis using univariate, bivariate, and multivariate visualizations. Statistical techniques and visualizations have been used to understand the dataset, identify patterns, relationships, and trends, and prepare the data for further analysis. The project has been implemented in Python using **Pandas, NumPy, Matplotlib, and Seaborn**, following the concepts covered during the EDA theory classes.
